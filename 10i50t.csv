@@ -1,0 +1,50 @@
+citrus fruits,bread,yolk,cheese
+rolls/buns,chicken
+whole milk,cereals,bread
+beer,diapers
+whole milk,beer
+diapers,chicken
+chicken,bread
+citrus fruits,bread
+rolls/buns,bread,beer
+beer,bread
+yolk,bread
+cheese,bread
+chicken,citrus fruits
+whole milk,chicken
+diapers,yolk,bread
+beer,yolk
+diapers,whole milk
+chicken,yolk,cheese
+cheese,rolls/buns
+bread,cheese
+citrus fruits,whole milk
+bread,chicken
+diapers,chicken
+beer
+beer,cereals
+yolk,cereals
+cheese,cereals
+beer,yolk,cereals
+whole milk,yolk
+diapers,cereals
+beer,cereals
+beer,chicken
+yolk,rolls/buns
+rolls/buns,cheese
+cheese,yolk,bread,beer,diapers
+cereals
+diapers,bread,beer
+citrus fruits,beer,diapers
+chicken,citrus fruits,yolk
+citrus fruits,cereals
+rolls/buns,cereals
+diapers,beer,yolk,cheese,citrus fruits,rolls/buns
+whole milk,cheese,yolk
+whole milk,rolls/buns
+whole milk,citrus fruits,beer
+yolk,bread
+rolls/buns,yolk
+cheese,chicken
+chicken,beer
+yolk,cereals
