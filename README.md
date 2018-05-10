@@ -1,6 +1,22 @@
 # Anti-mirror-Apriori
 Shopping cart analysis with a new Apriori algorithm called Anti-mirror-Apriori or AMpriori for short.
 
+## Objective
+
+The objective of this project is to build a novel apriori algorithm to do Market Basket Analysis(MBA) to recommend and up-sell items or groceries to a customer while shopping. 
+
+## Description
+
+A new technique of Anti-Mirroring is introduced to Apriori algorithm and results are compared and tabulated with respect to Time and Space complexity. 
+
+## Input & Output
+
+Input:  Market Basket items from customer purchases over a period of time
+Output: Best Pairs or groups of items to purchase
+
+## Tools Used
+
+Python
 
 ## EXPERIMENTS & RESULTS
 
