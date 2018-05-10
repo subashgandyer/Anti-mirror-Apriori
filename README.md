@@ -12,6 +12,7 @@ A new technique of Anti-Mirroring is introduced to Apriori algorithm and results
 ## Input & Output
 
 Input:  Market Basket items from customer purchases over a period of time
+
 Output: Best Pairs or groups of items to purchase
 
 ## Tools Used
